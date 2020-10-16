@@ -1,0 +1,9 @@
+advertisement
+blueprint
+conference
+map
+newspaper
+others
+portrait
+scenery
+text
